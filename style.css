@@ -68,6 +68,11 @@ span.age {
     padding-bottom: 20px;
     font-size: 15px;
 }
+hr {
+   background-color: hsl(227, 10%, 46%);
+   opacity: 0.5;
+    width: 0.1px;
+}
 
 .stats {
     display: flex;
